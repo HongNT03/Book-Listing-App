@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "description": "A story of love, loss, and the American Dream set in the Jazz Age.",
+    "price": 10.99,
+    "day_publish": "1925-04-10"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "description": "A chilling vision of a totalitarian future where individuality is suppressed.",
+    "price": 9.99,
+    "day_publish": "1949-06-08"
+  },
+  {
+    "id": 3,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "description": "A coming-of-age story set in the American South during the Great Depression, exploring themes of racism and justice.",
+    "price": 12.99,
+    "day_publish": "1960-07-11"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "description": "A witty and romantic novel about love, class, and societal expectations in 19th-century England.",
+    "price": 8.99,
+    "day_publish": "1813-01-28"
+  },
+  {
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "description": "An epic tale of obsession and the sea, as Captain Ahab pursues the white whale.",
+    "price": 11.99,
+    "day_publish": "1851-10-18"
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "description": "A coming-of-age novel about a troubled teenager's alienation and disillusionment with society.",
+    "price": 9.49,
+    "day_publish": "1951-07-16"
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "description": "A classic fantasy adventure following a hobbit's journey to reclaim a stolen treasure.",
+    "price": 14.99,
+    "day_publish": "1937-09-21"
+  },
+  {
+    "id": 8,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "description": "A dystopian novel exploring the dangers of censorship and the power of books.",
+    "price": 13.99,
+    "day_publish": "1953-10-19"
+  },
+  {
+    "id": 9,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic",
+    "description": "An epic poem chronicling Odysseus's ten-year journey home after the Trojan War.",
+    "price": 7.99,
+    "day_publish": "circa 8th century BC"
+  },
+  {
+    "id": 10,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "description": "A panoramic novel depicting Russian society during the Napoleonic Wars.",
+    "price": 18.99,
+    "day_publish": "1869-01-01"
+  },
+  {
+    "id": 11,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "description": "A dystopian satire exploring a future society where happiness is engineered and individuality is suppressed.",
+    "price": 10.49,
+    "day_publish": "1932-08-01"
+  },
+  {
+    "id": 12,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic Fiction",
+    "description": "A Gothic romance novel about a young orphan's journey to self-discovery and love.",
+    "price": 11.49,
+    "day_publish": "1847-10-16"
+  },
+  {
+    "id": 13,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Psychological Fiction",
+    "description": "A psychological thriller exploring themes of guilt, redemption, and the nature of morality.",
+    "price": 13.49,
+    "day_publish": "1866-01-01"
+  },
+  {
+    "id": 14,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Philosophical Fiction",
+    "description": "A philosophical novel exploring the consequences of hedonism and the corrupting influence of beauty.",
+    "price": 9.99,
+    "day_publish": "1890-07-01"
+  },
+  {
+    "id": 15,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "genre": "Biography",
+    "description": "A poignant memoir chronicling the life of a young Jewish girl hiding from the Nazis during World War II.",
+    "price": 7.49,
+    "day_publish": "1947-06-25"
+  }
+]
